@@ -8,7 +8,7 @@ setup(
     
     packages=find_namespace_packages(),
 
-    version="2.0",
+    version="2.1",
     license="MIT",
     description="Time measure tool for python",
 )
